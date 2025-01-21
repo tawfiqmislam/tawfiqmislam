@@ -5,13 +5,13 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer**, **Full Sta
 ## 🔧 Technologies & Tools I Use
 
 - **Frontend**: 
-  - HTML, CSS, Bootstrap 5, Tailwind CSS, React, React Native, Flutter, Dart, JavaScript
+  - HTML, CSS, Bootstrap, Tailwind CSS, JavaScript, React.js, Vue.js, React Native, Flutter, Dart
 - **Backend**: 
   - PHP, Laravel, Django, Flask, Node.js
 - **Mobile Development**: 
   - React Native, Flutter, Kotlin
 - **Programming Languages**: 
-  - C, Python, JavaScript, SQL
+  - C, PHP, Python, JavaScript, SQL
 - **Machine Learning & AI**:
   - PyTorch, Machine Learning, Deep Learning
 - **Databases**: 
@@ -59,13 +59,13 @@ I am passionate about building innovative solutions in various domains such as *
 
 ## 📫 How to Reach Me
 - **LinkedIn**: [Md. Tawfiqul Islam](https://www.linkedin.com/in/tawfiqmislam)
-- **Email**: tawfiqmislam@example.com (replace with your actual email)
-- **Website**: [tawfiqmislam.com](http://www.tawfiqmislam.com) (replace with your actual website)
+- **Email**: tawfiqmislam@gmail.com
+- **Website**: [mascoders.com](http://www.mascoders.com) , [edumasbd.com](http://www.edumasbd.com) , [mountparts.com](http://www.mauntparts.com)
 
 Feel free to explore my repositories, contribute to my projects, or simply reach out if you're interested in collaborating, learning, or discussing anything tech-related.
 
 ---
 
-🔭 Fun Fact: I'm also passionate about [insert hobby here - e.g., photography, gaming, music, etc.].
+🔭 Fun Fact: I'm also passionate about [gaming, traveling, gardening].
 
 Thanks for visiting my GitHub profile! 😊
