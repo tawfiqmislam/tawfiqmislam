@@ -1,6 +1,6 @@
 # Hi there, I'm Md. Tawfiqul Islam 👋
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer**, **Full Stack Developer**, **Tester**, **Teacher**, and **Entrepreneur**. I love building impactful software and working with cutting-edge technologies. As the **Founder and CEO at MASCODERS Ltd.** (Bangladesh), **CTO at Mount Parts LLC** (USA), and **Founder of Edumasbd**, I’m always working on exciting projects in the fields of web development, mobile apps, ERP solutions, and edutech.
+Welcome to my GitHub profile! I'm a passionate **Software Engineer**, **Full Stack Developer**, **Tester**, **Teacher**, and **Entrepreneur**. I love building impactful software and working with cutting-edge technologies. As the **Founder and CEO at MASCODERS Ltd.** (Bangladesh), **CTO at WAHLIN USA LLC** (USA), and **Founder of Edumasbd**, I’m always working on exciting projects in the fields of web development, mobile apps, ERP solutions, and edutech.
 
 ## 🔧 Technologies & Tools I Use
 
