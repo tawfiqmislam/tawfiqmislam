@@ -1,6 +1,6 @@
 # Hi there, I'm Md. Tawfiqul Islam 👋
 
-Welcome to my GitHub profile! I'm a passionate **Software Engineer**, **Full Stack Developer**, **Tester**, **Teacher**, and **Entrepreneur**. I love building impactful software and working with cutting-edge technologies. As the **Founder and CEO at MASCODERS Ltd.** (Bangladesh), **CTO at WAHLIN USA LLC** (USA), and **Founder of Edumasbd**, I’m always working on exciting projects in the fields of web development, mobile apps, ERP solutions, and edutech.
+Welcome to my GitHub profile! I'm a passionate **Software Engineer**, **Full Stack Developer**, **Tester**, **Teacher**, and **Entrepreneur**. I love building impactful software and working with cutting-edge technologies. As the **Founder and CEO at MASCODERS Ltd.** (Bangladesh), **CTO at WAH LIN USA LLC** (USA), and **Founder of Edumasbd**, I’m always working on exciting projects in the fields of web development, mobile apps, ERP solutions, and edutech.
 
 ## 🔧 Technologies & Tools I Use
 
@@ -33,7 +33,7 @@ Welcome to my GitHub profile! I'm a passionate **Software Engineer**, **Full Sta
 - Developing full-stack web applications, primarily focused on **E-commerce**, **ERP Solutions**, **Edu ERP**, and **Edutech**.
 - Building and deploying **mobile applications** for both Android and iOS using **React Native** and **Flutter**.
 - Working on **AI/ML** models and integrating them into real-world applications for smarter solutions.
-- Leading the technical vision and strategy as the **CTO** at **Mount Parts LLC** (USA) and **Founder** at **Edumasbd**.
+- Leading the technical vision and strategy as the **CTO** at **WAH LIN USA LLC** (USA) and **Founder** at **Edumasbd**.
 - Mentoring developers and entrepreneurs in the tech space, especially in the **web** and **mobile** development sectors.
 
 ## 🌱 Currently Learning
@@ -49,7 +49,7 @@ I believe in building software that makes a difference. My approach is focused o
 As a teacher and mentor, I enjoy helping aspiring developers grow their skills and guiding them through their journey in the tech world. Whether it's explaining core concepts or providing guidance on complex problems, I am always eager to help others succeed.
 
 ## 💼 Entrepreneurship & Leadership
-As the **Founder and CEO** of **MASCODERS Ltd.** (Bangladesh), I lead a team dedicated to delivering high-quality software solutions. I'm also the **CTO** at **Mount Parts LLC**, where I lead the technology strategy for the business, and the **Founder of Edumasbd**, a company focused on creating impactful education solutions.
+As the **Founder and CEO** of **MASCODERS Ltd.** (Bangladesh), I lead a team dedicated to delivering high-quality software solutions. I'm also the **CTO** at **WAH LIN USA LLC**, where I lead the technology strategy for the business, and the **Founder of Edumasbd**, a company focused on creating impactful education solutions.
 
 I am passionate about building innovative solutions in various domains such as **E-commerce**, **ERP Solutions**, and **EduTech**, leveraging the latest technologies to create meaningful, scalable, and future-proof products.
 
@@ -60,7 +60,7 @@ I am passionate about building innovative solutions in various domains such as *
 ## 📫 How to Reach Me
 - **LinkedIn**: [Md. Tawfiqul Islam](https://www.linkedin.com/in/tawfiqmislam)
 - **Email**: tawfiqmislam@gmail.com
-- **Website**: [mascoders.com](http://www.mascoders.com) , [edumasbd.com](http://www.edumasbd.com) , [mountparts.com](http://www.mountparts.com)
+- **Website**: [mascoders.com](http://www.mascoders.com) , [edumasbd.com](http://www.edumasbd.com) , [wahlinapp.com](http://www.wahlinapp.com)
 
 Feel free to explore my repositories, contribute to my projects, or simply reach out if you're interested in collaborating, learning, or discussing anything tech-related.
 
